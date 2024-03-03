@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Hanif Robbani</h1>
 <h3 align="center">Front-end Web Developer from Indonesia.</h3>
 
-- 🌱 I’m currently learning **React, Typescript and Tailwind**
+- 🌱 I’m currently learning **Framework, library and other Front-end tool**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hanifrobbani](https://github.com/hanifrobbani)
 
