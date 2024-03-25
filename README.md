@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mhanifrobbani51@gmail.com**
 
-- ⚡ <s>Fun</s> FACT! **Y'all are probably much better than me at coding, im just a beginner**
+- ⚡ <s>Fun</s> FACT! **Y'all are probably much better than me at coding, im just a beginner 👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
