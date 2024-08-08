@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Hanif Robbani</h1>
-<h3 align="center">Vocational School Students from Indonesia.</h3>
+<h3 align="center">Vocational High School Students from Indonesia.</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
