@@ -16,3 +16,9 @@
 <hr></hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanifrobbani&show_icons=true&locale=en&layout=compact" alt="hanifrobbani" style="max-width: 100%;" width="350px" height="200px"/></p>
+
+###
+
+<img src="https://raw.githubusercontent.com/hanifrobbani/hanifrobbani/output/snake.svg" alt="Snake animation" />
+
+###
