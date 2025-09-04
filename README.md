@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm M.Hanif Robbani</h2>
-<h4 align="center">Passionate Web Developer from Indonesia.</h4>
+<h4 align="center">Undergraduate Developer, Professional yapper, etc.</h4>
 
 - 🌱 I’m currently learning **Web Development**
 
